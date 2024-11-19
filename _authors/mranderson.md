@@ -1,15 +1,13 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+photo: https://avatars.githubusercontent.com/u/184998944?s=200&v=4
+name: GabrielJones
+display_name: Gabriel Jones
+position: Owner
+bio: informatica, animazione, comune, e molto altro, tutto questo nel mio mondo!
+github_username: gabrieljonesdev
+twitter_username: gabrieljonesdev
+instagram_username: onlygabbyme
+medium_username: gabrieljonesdev
 ---
 
