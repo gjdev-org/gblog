@@ -3,7 +3,7 @@ date: 2024-11-20
 layout: post
 title: La Magia della Programmazione: Un Viaggio nelle Lingue del Codice
 subtitle: Scoprire i linguaggi di programmazione
-description: >- Un'introduzione ai principali linguaggi di programmazione per chi vuole iniziare il proprio viaggio nel mondo del coding.
+description: Un'introduzione ai principali linguaggi di programmazione per chi vuole iniziare il proprio viaggio nel mondo del coding.
 image: https://imgs.search.brave.com/RC9wYzjkS5aeUJnHJaZPrt4QN4pXlS6xiXTDolUGvTQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9idXJz/dC5zaG9waWZ5Y2Ru/LmNvbS9waG90b3Mv/Y29kaW5nLW9uLWxh/cHRvcC5qcGc_d2lk/dGg9MTAwMCZmb3Jt/YXQ9cGpwZyZleGlm/PTAmaXB0Yz0w
 optimized_image: https://imgs.search.brave.com/RC9wYzjkS5aeUJnHJaZPrt4QN4pXlS6xiXTDolUGvTQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9idXJz/dC5zaG9waWZ5Y2Ru/LmNvbS9waG90b3Mv/Y29kaW5nLW9uLWxh/cHRvcC5qcGc_d2lk/dGg9MTAwMCZmb3Jt/YXQ9cGpwZyZleGlm/PTAmaXB0Yz0w
 category: blog
