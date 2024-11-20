@@ -1,16 +1,14 @@
 ---
-date: 2024-11-20 02:37:00
+date: 2024-11-20
 layout: post
-title: Perché Amo Brave, il Browser che Mi Cambia la Navigazione
-subtitle: La mia esperienza con Brave tra streaming, community e uso quotidiano
-description: Scopri perché ho scelto Brave come browser per una navigazione più veloce, sicura e adatta a tutte le mie esigenze online.
-image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
-optimized_image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
+title: La Magia della Programmazione, un Viaggio nelle Lingue del Codice
+subtitle: Scoprire i linguaggi di programmazione
+description: Un'introduzione ai principali linguaggi di programmazione per chi vuole iniziare il proprio viaggio nel mondo del coding.
+image: https://imgs.search.brave.com/RC9wYzjkS5aeUJnHJaZPrt4QN4pXlS6xiXTDolUGvTQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9idXJz/dC5zaG9waWZ5Y2Ru/LmNvbS9waG90b3Mv/Y29kaW5nLW9uLWxh/cHRvcC5qcGc_d2lk/dGg9MTAwMCZmb3Jt/YXQ9cGpwZyZleGlm/PTAmaXB0Yz0w
+optimized_image: https://imgs.search.brave.com/RC9wYzjkS5aeUJnHJaZPrt4QN4pXlS6xiXTDolUGvTQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9idXJz/dC5zaG9waWZ5Y2Ru/LmNvbS9waG90b3Mv/Y29kaW5nLW9uLWxh/cHRvcC5qcGc_d2lk/dGg9MTAwMCZmb3Jt/YXQ9cGpwZyZleGlm/PTAmaXB0Yz0w
 category: blog
-tags:
-  - welcome
-  - blog
-author: mranderson
+tags: programmazione, coding, tutorial
+author: GabrielJones
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
