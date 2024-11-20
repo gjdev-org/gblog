@@ -82,15 +82,10 @@ paginate_content:
 sass:
   style: compressed
 
-
-
-
 # Plugins
 plugins:
-#  - jekyll-paginate
-#  - jekyll-paginate-content
-
-
+  - jekyll-paginate
+  - jekyll-paginate-content
 
 # Exclude my node related stuff
 exclude: [
