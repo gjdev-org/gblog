@@ -59,6 +59,9 @@ Se state vivendo qualcosa di simile, non abbiate paura di chiedere aiuto. Le per
 
 **#BraveBrowser #PrivacyOnline #StreamingSenzaPubblicità #Sicurezza #Community**  
 
+
+### Commenti dall'autore : 
+Mentre ero in bagno, a piangere, volevo avviare la procedura che solo in poche persone conoscono, dei 30 gioni... Poi ho detto che non posso dargli quella soddisfazione.
 --- 
 
 Cosa ne pensi? 😊
