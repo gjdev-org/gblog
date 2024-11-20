@@ -1,5 +1,5 @@
-baseurl: "/gblog/" # the subpath of your site, e.g. /blog
-url: "https://gjdev-org.github.io/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://blog.gjdev.it" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "it"
 categories_folder: category
