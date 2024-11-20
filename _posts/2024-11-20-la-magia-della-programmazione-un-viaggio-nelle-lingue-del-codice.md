@@ -7,10 +7,7 @@ description: Un'introduzione ai principali linguaggi di programmazione per chi v
 image: https://imgs.search.brave.com/RC9wYzjkS5aeUJnHJaZPrt4QN4pXlS6xiXTDolUGvTQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9idXJz/dC5zaG9waWZ5Y2Ru/LmNvbS9waG90b3Mv/Y29kaW5nLW9uLWxh/cHRvcC5qcGc_d2lk/dGg9MTAwMCZmb3Jt/YXQ9cGpwZyZleGlm/PTAmaXB0Yz0w
 optimized_image: https://imgs.search.brave.com/RC9wYzjkS5aeUJnHJaZPrt4QN4pXlS6xiXTDolUGvTQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9idXJz/dC5zaG9waWZ5Y2Ru/LmNvbS9waG90b3Mv/Y29kaW5nLW9uLWxh/cHRvcC5qcGc_d2lk/dGg9MTAwMCZmb3Jt/YXQ9cGpwZyZleGlm/PTAmaXB0Yz0w
 category: blog
-tags:
-  - programmazione
-  - coding
-  - tutorial
+tags: programmazione, coding, tutorial
 author: GabrielJones
 paginate: true
 ---
