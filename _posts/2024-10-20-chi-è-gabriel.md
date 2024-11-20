@@ -3,9 +3,9 @@ date: 2024-10-20
 layout: post
 title: Chi è Gabriel Jones?
 subtitle: Gabriel Jones
-description: >- Chi è Gabriel Jones, alias OnlyGabbyMe
-image: >- https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
-optimized_image: >- https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
+description: Chi è Gabriel Jones, alias OnlyGabbyMe
+image: https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
+optimized_image: https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
 category: blog
 tags:
   - welcome
