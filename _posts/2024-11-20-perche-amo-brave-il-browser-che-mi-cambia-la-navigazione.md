@@ -7,7 +7,7 @@ description: Scopri perch√© ho scelto Brave come browser per una navigazione pi√
 image: https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
 optimized_image: https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
 category: blog
-tags: Brave, privacy, streaming, browser
+tags: [Brave, privacy, streaming, browser]
 author: GabrielJones
 paginate: true
 ---
