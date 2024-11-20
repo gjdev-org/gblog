@@ -1,11 +1,11 @@
 ---
 date: 2024-11-20
 layout: post
-title: "Proposte per il Comune: Sistema di Supporto Compiti per Studenti delle Scuole Medie e Superiori"
-subtitle: "Sistema di Supporto Compiti"
-description: "Proposta per la creazione di un programma di tutoraggio basato sul volontariato di ex docenti e attuali insegnanti."
-image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
-optimized_image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
+title: Proposte per il Comune, Sistema di Supporto Compiti per Studenti delle Scuole Medie e Superiori
+subtitle: Sistema di Supporto Compiti
+description: Proposta per la creazione di un programma di tutoraggio basato sul volontariato di ex docenti e attuali insegnanti.
+image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
+optimized_image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
 category: blog
 tags: scuola, volontariato, educazione
 author: GabrielJones

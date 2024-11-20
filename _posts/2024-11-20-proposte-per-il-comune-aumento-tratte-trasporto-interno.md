@@ -1,11 +1,11 @@
 ---
 date: 2024-11-20
 layout: post
-title: "Proposte per il Comune: Aumento delle Tratte di Trasporto Interno al Comune"
-subtitle: "Aumento delle Tratte di Trasporto"
-description: "Proposta per migliorare il trasporto pubblico interno attraverso l'aumento delle tratte."
-image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
-optimized_image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
+title: Proposte per il Comune: Aumento delle Tratte di Trasporto Interno al Comune
+subtitle: Aumento delle Tratte di Trasporto
+description: Proposta per migliorare il trasporto pubblico interno attraverso l'aumento delle tratte.
+image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
+optimized_image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
 category: blog
 tags: trasporto, mobilità, comune
 author: GabrielJones

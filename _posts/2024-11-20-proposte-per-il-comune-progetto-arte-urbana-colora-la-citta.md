@@ -1,11 +1,11 @@
 ---
 date: 2024-11-20
 layout: post
-title: "Proposte per il Comune: Progetto di Arte Urbana “Colora la Città”"
-subtitle: "Colora la Città"
-description: "Proposta per un progetto di arte urbana che coinvolge i giovani nella creazione di murales e installazioni artistiche negli spazi pubblici."
-image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
-optimized_image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
+title: Proposte per il Comune, Progetto di Arte Urbana “Colora la Città”
+subtitle: Colora la Città
+description: Proposta per un progetto di arte urbana che coinvolge i giovani nella creazione di murales e installazioni artistiche negli spazi pubblici.
+image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
+optimized_image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
 category: blog
 tags: arte urbana, giovani, comunità, creatività
 author: GabrielJones

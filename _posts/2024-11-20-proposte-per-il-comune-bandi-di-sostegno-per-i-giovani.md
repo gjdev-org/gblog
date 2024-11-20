@@ -1,11 +1,11 @@
 ---
 date: 2024-11-20
 layout: post
-title: "Proposte per il Comune: Creazione di Bandi di Sostegno per i Giovani"
-subtitle: "Bandi di Sostegno"
-description: "Proposta per la creazione di bandi da 50€ per il supporto degli studenti delle scuole superiori."
-image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
-optimized_image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
+title: Proposte per il Comune: Creazione di Bandi di Sostegno per i Giovani
+subtitle: Bandi di Sostegno
+description: Proposta per la creazione di bandi da 50€ per il supporto degli studenti delle scuole superiori.
+image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
+optimized_image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
 category: blog
 tags: giovani, sostegno, mobilità, sport
 author: GabrielJones

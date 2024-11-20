@@ -1,11 +1,11 @@
 ---
 date: 2024-11-20
 layout: post
-title: "Proposte per il Comune: Insediamento di un Consiglio Comunale Giovanile"
-subtitle: "Consiglio Comunale Giovanile"
-description: "Proposta per la creazione di un Consiglio Comunale Giovanile per promuovere la partecipazione attiva dei giovani nella vita della comunità."
-image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
-optimized_image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
+title: Proposte per il Comune, Insediamento di un Consiglio Comunale Giovanile
+subtitle: Consiglio Comunale Giovanile
+description: Proposta per la creazione di un Consiglio Comunale Giovanile per promuovere la partecipazione attiva dei giovani nella vita della comunità.
+image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
+optimized_image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
 category: blog
 tags: gioventù, partecipazione, comunità
 author: GabrielJones
