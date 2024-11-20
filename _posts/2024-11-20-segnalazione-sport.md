@@ -12,7 +12,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: mranderson
+author: GabrielJones
 paginate: true
 ---
 Lo sport è una delle risorse più preziose per il benessere fisico, mentale e sociale di ciascun individuo. È un'opportunità per crescere, stare insieme, e sviluppare un senso di appartenenza alla comunità. Tuttavia, a Fontanafredda, l'accesso a molte attività sportive è spesso limitato da tariffe troppo elevate, rendendo difficoltoso per molte famiglie partecipare a corsi o allenamenti.
