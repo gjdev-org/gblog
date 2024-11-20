@@ -1,5 +1,5 @@
 ---
-date: 2024-11-20
+date: 2024-10-20
 layout: post
 title: Perché Amo Brave: Il Browser che Mi Cambia la Navigazione
 subtitle: La mia esperienza con Brave tra streaming, community e uso quotidiano
@@ -7,10 +7,16 @@ description: Scopri perché ho scelto Brave come browser per una navigazione pi�
 image: https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
 optimized_image: https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
 category: blog
-tags: [Brave, privacy, streaming, browser]
+tags:
+  - brave
+  - privacy
+  - streaming
+  - browser
 author: GabrielJones
 paginate: true
 ---
+
+
 
 ## Perché Amo Brave: Il Browser che Mi Cambia la Navigazione
 
