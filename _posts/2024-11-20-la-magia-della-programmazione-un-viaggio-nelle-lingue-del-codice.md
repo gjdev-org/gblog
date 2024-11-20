@@ -1,5 +1,5 @@
 ---
-date: 2024-11-20
+date: 2024-11-11
 layout: post
 title: La Magia della Programmazione, un Viaggio nelle Lingue del Codice
 subtitle: Scoprire i linguaggi di programmazione
