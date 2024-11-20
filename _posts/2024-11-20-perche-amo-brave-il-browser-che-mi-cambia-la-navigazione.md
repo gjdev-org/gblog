@@ -3,9 +3,9 @@ date: 2024-11-20
 layout: post
 title: Perché Amo Brave: Il Browser che Mi Cambia la Navigazione
 subtitle: La mia esperienza con Brave tra streaming, community e uso quotidiano
-description: >- Scopri perché ho scelto Brave come browser per una navigazione più veloce, sicura e adatta a tutte le mie esigenze online.
-image: >- https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
-optimized_image: >- https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
+description: Scopri perché ho scelto Brave come browser per una navigazione più veloce, sicura e adatta a tutte le mie esigenze online.
+image: https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
+optimized_image: https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
 category: blog
 tags: Brave, privacy, streaming, browser
 author: GabrielJones

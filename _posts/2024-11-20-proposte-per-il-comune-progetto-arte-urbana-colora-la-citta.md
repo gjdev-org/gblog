@@ -7,11 +7,7 @@ description: "Proposta per un progetto di arte urbana che coinvolge i giovani ne
 image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
 optimized_image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
 category: blog
-tags:
-  - arte urbana
-  - giovani
-  - comunità
-  - creatività
+tags: arte urbana, giovani, comunità, creatività
 author: GabrielJones
 paginate: true
 ---

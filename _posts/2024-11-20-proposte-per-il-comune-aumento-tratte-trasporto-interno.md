@@ -7,10 +7,7 @@ description: "Proposta per migliorare il trasporto pubblico interno attraverso l
 image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
 optimized_image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
 category: blog
-tags:
-  - trasporto
-  - mobilità
-  - comune
+tags: trasporto, mobilità, comune
 author: GabrielJones
 paginate: true
 ---

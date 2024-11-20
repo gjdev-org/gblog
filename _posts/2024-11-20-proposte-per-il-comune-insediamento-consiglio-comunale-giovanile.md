@@ -7,10 +7,7 @@ description: "Proposta per la creazione di un Consiglio Comunale Giovanile per p
 image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
 optimized_image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
 category: blog
-tags:
-  - gioventù
-  - partecipazione
-  - comunità
+tags: gioventù, partecipazione, comunità
 author: GabrielJones
 paginate: true
 ---

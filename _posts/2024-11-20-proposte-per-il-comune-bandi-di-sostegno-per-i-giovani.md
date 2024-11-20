@@ -7,11 +7,7 @@ description: "Proposta per la creazione di bandi da 50€ per il supporto degli 
 image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
 optimized_image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
 category: blog
-tags:
-  - giovani
-  - sostegno
-  - mobilità
-  - sport
+tags: giovani, sostegno, mobilità, sport
 author: GabrielJones
 paginate: true
 ---

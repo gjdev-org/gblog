@@ -7,10 +7,7 @@ description: "Proposta per la creazione di un programma di tutoraggio basato sul
 image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
 optimized_image: "https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png"
 category: blog
-tags:
-  - scuola
-  - volontariato
-  - educazione
+tags: scuola, volontariato, educazione
 author: GabrielJones
 paginate: true
 ---
