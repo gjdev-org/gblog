@@ -11,7 +11,7 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url: https://gjdev-org.github.io/gblog/
+    url: https://blog.gjdev.it
   - title: About
     url: /about
   - title: Contact
