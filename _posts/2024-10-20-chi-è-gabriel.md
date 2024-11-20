@@ -1,5 +1,5 @@
 ---
-date: 2024-10-20
+date: 2008-06-11
 layout: post
 title: Chi è Gabriel Jones?
 subtitle: Gabriel Jones
