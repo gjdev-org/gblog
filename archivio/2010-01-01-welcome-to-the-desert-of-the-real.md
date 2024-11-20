@@ -1,15 +1,11 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2024-11-20 02:37:00
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+title: Perché Amo Brave, il Browser che Mi Cambia la Navigazione
+subtitle: La mia esperienza con Brave tra streaming, community e uso quotidiano
+description: Scopri perché ho scelto Brave come browser per una navigazione più veloce, sicura e adatta a tutte le mie esigenze online.
+image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
+optimized_image: https://raw.githubusercontent.com/gjdev-org/gblog/refs/heads/master/assets/img/copertine3.png
 category: blog
 tags:
   - welcome
