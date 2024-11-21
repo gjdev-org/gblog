@@ -9,5 +9,8 @@ github_username: gabrieljonesdev
 twitter_username: gabrieljonesdev
 instagram_username: onlygabbyme
 medium_username: gabrieljonesdev
+link segreteria: https://gjdev.it/uffici/segreteria.g/
+uffici: 18f, segreteria, rs, RC, TC, onlygabbyme, justgabbyme
+
 ---
 
