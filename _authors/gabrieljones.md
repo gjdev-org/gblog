@@ -12,6 +12,5 @@ medium_username: gabrieljonesdev
 segreteria: [link segreteria](https://gjdev.it/uffici/segreteria.g/)
 uffici: 18f, segreteria, rs, RC, TC, onlygabbyme, justgabbyme
 Profilo: [link profilo](https://gjdev.it/persone-pubbliche/gabrieljones/)
-
 ---
 
