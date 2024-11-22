@@ -14,7 +14,7 @@ paginate: true
 sample
 
 
-### Gestione del post : 
+### Gestione del post
 GabrielJones
 R. 18F
 TeamGiovani
