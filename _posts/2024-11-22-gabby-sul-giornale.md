@@ -1,5 +1,5 @@
 ---
-date: 2024-11-31
+date: 2024-11-22
 layout: post
 title: OMG! Sono finito sul giornale 
 subtitle: Ora è il futuro
