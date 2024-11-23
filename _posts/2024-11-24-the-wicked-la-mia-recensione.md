@@ -1,5 +1,5 @@
 ---
-date: 2024-11-22
+date: 2024-11-24
 layout: post
 title: The Wicked - la mia recensione 
 subtitle: Totalmente quel che penso
