@@ -25,12 +25,10 @@ email: gabriel.jones@mail.urp.gjdev.it
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: gabrieljonesdev
+twitter_username: gabrieljonesdev
+instagram_username: onlygabbyme
+medium_username: gabrieljonesdev
 
 
 # Posts Settings
@@ -43,8 +41,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.gjdev.it" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "it"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
