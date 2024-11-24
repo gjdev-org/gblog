@@ -82,6 +82,8 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-content
 
+formspree_form_id: xwpknlql
+
 # Exclude my node related stuff
 exclude: [
   'docs/',
