@@ -23,15 +23,15 @@ layout: page
 
     <!-- Nome -->
     <input type="text" name="name" placeholder="Your name" v-validate="'required'" :class="{ 'has-error': errors.has('name') }">
-    <span v-if="errors.has('name')" v-cloak>${ errors.first('name') }</span>
+    <span v-if="errors.has('name')" v-cloak></span>
 
     <!-- Email -->
     <input type="text" name="email" placeholder="Your email" v-validate="'required|email'" :class="{ 'has-error': errors.has('email') }">
-    <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
+    <span v-if="errors.has('email')" v-cloak></span>
 
     <!-- Messaggio -->
     <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Your message" v-validate="'required'" :class="{ 'has-error': errors.has('message') }"></textarea>
-    <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
+    <span v-if="errors.has('message')" v-cloak></span>
 
     <!-- Pulsante invio -->
     <button type="submit">Send</button>
