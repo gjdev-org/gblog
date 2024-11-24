@@ -12,12 +12,10 @@ show_hero: true
 menu:
   - title: Home
     url: https://blog.gjdev.it
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: Arena Giovani
+    url: https://comune.arena-giovai.gjdev.it
+  - title: Gabriel Jones
+    url: https://comune.arena-giovani.gjdev.it
 email: gabriel.jones@mail.urp.gjdev.it
 # See: https://disqus.com/
 # Contact Form Setting
