@@ -13,6 +13,11 @@ permalink: /obiettivi2035/
 ### Che cosa sono?
 Gli obiettivi 2035, sono degli obiettivi di traguardi da raggiungere entro il 2035, obiettivi per l'inclusività, accessibilità globale, diffusione della cultura a Fontanafredda e soprattutto DARE VOCE AI GIOVANI.
 ### Gli obiettivi : 
-<img class="img-rounded" src="https://varaschin.it/wp-content/uploads/WhatsApp-Image-2021-08-25-at-16.47.56-23-1.jpeg" width="100">
-### 1) Sport : 
+<img class="img-rounded" src="\assets\img\uploads\obiettivi2035-sport.jpeg" width="100">
+### 1 Sport : 
 Creare dei bandi, per le famiglie con un reddito basso, per dare la possibilità di fare sport a Fontanafredda, perché lo sport a Fontanafredda non deve esser un diritto, ma una necessità!
+
+
+<img class="img-rounded" src="\assets\img\uploads\biblioteca-comunale.jfif" width="100">
+### 1 Cultura : 
+Creare dei progetti <b>per i giovani</b> per diffondere più cultura <b>che non siano connessi alla scuola ma che sia un'attività per piacere</b>, questo si potrebbe fare con microcorsi, da centri giovani e con molte altre risorse che il comune non mette in atto!
