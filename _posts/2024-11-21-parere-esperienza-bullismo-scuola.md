@@ -10,7 +10,6 @@ category: Scuola
 tags: Istruzione, Giovani, No-Bullismo-Project
 author: GabrielJones
 paginate: true
-sticky: true
 ---
 # Bullismo a scuola: che ne penso?
 ### Premessa  
