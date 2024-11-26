@@ -7,7 +7,7 @@ description: Scopri il progetto "Arena Giovani", un'iniziativa che mira a dare v
 image: https://vecchiosito.icfontanafredda.edu.it/wp-content/uploads/sites/272/marconi-5slider.jpg 
 optimized_image: https://vecchiosito.icfontanafredda.edu.it/wp-content/uploads/sites/272/marconi-5slider.jpg 
 category: arena-giovani 
-tags: politiche giovanili, Fontanafredda, istruzione, sport, comunità, giovani, progetto, 2025 
+tags: Fontanafredda, istruzione, sport, comunità, giovani, progetto, 2025 
 author: gabrieljones 
 paginate: true 
 --- 
