@@ -10,6 +10,7 @@ category: blog
 tags: programmazione, coding, tutorial
 author: GabrielJones
 paginate: true
+sticky: true
 ---
 
 ## La Magia della Programmazione: Un Viaggio nelle Lingue del Codice
