@@ -12,6 +12,7 @@ author: gabrieljones
 paginate: true 
 --- 
 
+#### Presentazione del progetto "Arena Giovani" 
 Ciao a tutti! Sono Gabriel Jones, in diretta!
 Molti di voi mi conosceranno come Onlygabbyme o Justgabbyme, ma ogni tanto mi presento anche come Gabriel (anche se raramente). Oggi ci tengo a parlarvi di un progetto che mi sta particolarmente a cuore, e che riguarda un ambito fondamentale per la nostra comunità: le politiche giovanili!
 
