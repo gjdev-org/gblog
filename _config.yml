@@ -104,7 +104,6 @@ contact:
     empty_message: "Please enter a message"
 
 
-# Exclude my node related stuff
 exclude: [
   'docs/',
   'vendor/',
@@ -121,3 +120,13 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
+
+
