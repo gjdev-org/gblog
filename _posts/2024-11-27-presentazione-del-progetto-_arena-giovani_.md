@@ -5,6 +5,7 @@ title: Presentazione del progetto "Arena Giovani"
 subtitle: Un impegno per le politiche giovanili, l'istruzione e lo sport a Fontanafredda 
 description: Scopri il progetto "Arena Giovani", un'iniziativa che mira a dare voce ai giovani, migliorare l'istruzione e favorire la collaborazione tra il comune e i ragazzi di Fontanafredda e provincia. Il mandato partirà il 1° gennaio 2025! 
 image: https://vecchiosito.icfontanafredda.edu.it/wp-content/uploads/sites/272/marconi-5slider.jpg 
+optimized_image: https://vecchiosito.icfontanafredda.edu.it/wp-content/uploads/sites/272/marconi-5slider.jpg 
 category: arena-giovani 
 tags: politiche giovanili, Fontanafredda, istruzione, sport, comunità, giovani, progetto, 2025 
 author: gabrieljones 
