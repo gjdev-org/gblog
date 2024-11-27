@@ -6,7 +6,7 @@ subtitle: Tu provaci, io piano piano mi vendico.
 description: Un racconto personale sul bullismo scolastico, tra esperienze difficili e forza interiore.
 image: https://www.centrokromos.it/wp-content/uploads/2019/11/Bullismo-gli-interventi-psicologici-di-aiuto.jpg
 optimized_image: https://www.centrokromos.it/wp-content/uploads/2019/11/Bullismo-gli-interventi-psicologici-di-aiuto.jpg
-category: Scuola
+category: cultura
 tags: Istruzione, Giovani, No-Bullismo-Project
 author: GabrielJones
 paginate: true

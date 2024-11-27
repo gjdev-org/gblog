@@ -6,7 +6,7 @@ subtitle: Totalmente quel che penso
 description: sample
 image: https://imgs.search.brave.com/y4rvCmcSIiFFtNBZteXLSYZE5lvcC5G0vs8sSrAuRNE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ldy5j/b20vdGhtYi9FeGtf/QUVGeHVNTWpFTTlz/ZkJYOGFzSkdZWFU9/LzE1MDB4MC9maWx0/ZXJzOm5vX3Vwc2Nh/bGUoKTptYXhfYnl0/ZXMoMTUwMDAwKTpz/dHJpcF9pY2MoKS9X/aWNrZWQtQ3ludGhp/YS1Fcml2by0wMTA1/MjMtOGVjMTYyYzhm/MGMzNDU0MWE0NDlh/N2U4NTcxMjQ0ZmIu/anBn
 optimized_image: https://imgs.search.brave.com/y4rvCmcSIiFFtNBZteXLSYZE5lvcC5G0vs8sSrAuRNE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ldy5j/b20vdGhtYi9FeGtf/QUVGeHVNTWpFTTlz/ZkJYOGFzSkdZWFU9/LzE1MDB4MC9maWx0/ZXJzOm5vX3Vwc2Nh/bGUoKTptYXhfYnl0/ZXMoMTUwMDAwKTpz/dHJpcF9pY2MoKS9X/aWNrZWQtQ3ludGhp/YS1Fcml2by0wMTA1/MjMtOGVjMTYyYzhm/MGMzNDU0MWE0NDlh/N2U4NTcxMjQ0ZmIu/anBn
-category: recensioni
+category: cinema
 tags: film
 author: GabrielJones
 paginate: true

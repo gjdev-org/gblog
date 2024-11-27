@@ -6,7 +6,7 @@ subtitle: Per lo studente e per il developer
 description: Per lo studente e per il developer
 image: https://imgs.search.brave.com/PnERk5tNwsxJQtmnUEupDFUIAe3HAdHz48Z8uxBKjxc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YW5kcm9pZGF1dGhv/cml0eS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjQvMDkv/Z29vZ2xlLWNocm9t/ZWJvb2stTGVub3Zv/LUNocm9tZWJvb2st/RHVldC1hbmdsZS5q/cGc
 optimized_image: https://imgs.search.brave.com/PnERk5tNwsxJQtmnUEupDFUIAe3HAdHz48Z8uxBKjxc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YW5kcm9pZGF1dGhv/cml0eS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjQvMDkv/Z29vZ2xlLWNocm9t/ZWJvb2stTGVub3Zv/LUNocm9tZWJvb2st/RHVldC1hbmdsZS5q/cGc
-category: tech
+category: nerd
 tags: computer, informatica, tech, google, android, linux
 author: GabrielJones
 paginate: true

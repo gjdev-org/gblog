@@ -6,7 +6,7 @@ subtitle: Come trasformare il tuo sito Jekyll in un CMS con pannello di amminist
 description: Un tutorial per creare un pannello di amministrazione per il tuo sito jekyll, per creare i post, pagine, utenti, 
  
 image: https://imgs.search.brave.com/SvVZkTOMhWn3yHvWD8yv0wzCBJ0808PeCnSkkAmriCo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9iOGY0/ZzVhNy5yb2NrZXRj/ZG4ubWUvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjQvMDcvYWRk/LWxvZ2luLWxpbmst/dG8tbWVudS5wbmc 
-category: blog 
+category: nerd 
 tags: #Jekyll #CMS #SitiStatici #GitHubPages #WebDevelopment #BlogGratis #OpenSource #Tutorial #WebDesign #AdminPanel #SviluppoWeb #Programmazione #HostingGratuito 
 author: gabrieljones 
 paginate: true 

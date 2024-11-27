@@ -6,7 +6,7 @@ subtitle: Gabriel Jones
 description: Chi è Gabriel Jones, alias OnlyGabbyMe
 image: https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
 optimized_image: https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
-category: blog
+category: Gabriel
 tags:
   - welcome
   - blog
