@@ -2,12 +2,7 @@
 name: Gabby Blog
 title: Gabby Blog | Home
 description: Hey i am Gabriel!
-tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+tags: blog
 show_hero: true
 menu:
   - title: Home
@@ -85,24 +80,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
-
-sent_message_url: /thank-you
-formspree_form_id: xwpknlql
-contact:
-  title: "Talk to me"
-  placeholders:
-    name: "Your name"
-    email: "Your email"
-    message: "Your message"
-  submit_btn: "Send"
-  subject: "New contact!"
-  errors:
-    locale: "en"
-    empty_name: "Please enter your name"
-    empty_email: "Please enter your email"
-    invalid_email: "Please enter a valid email"
-    empty_message: "Please enter a message"
-
 
 exclude: [
   'docs/',
