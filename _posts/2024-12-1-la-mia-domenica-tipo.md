@@ -1,7 +1,7 @@
 --- 
 date: 2024-11-31
 layout: post 
-title: Cosa faccio la domenica - mi sento vuoto - mi vorrei sparare 
+title: Cosa faccio la domenica 
 subtitle: Tutto quello che faccio a dicembre! 
 description: Tutto quello che faccio a dicembre! 
 image: assets/img/domenica1dic.jpg
