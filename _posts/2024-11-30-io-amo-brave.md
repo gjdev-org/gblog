@@ -1,5 +1,5 @@
 ---
-date: 2024-11-31
+date: 2024-11-30
 layout: post
 title: Ecco perché amo brave!
 subtitle: ciao
