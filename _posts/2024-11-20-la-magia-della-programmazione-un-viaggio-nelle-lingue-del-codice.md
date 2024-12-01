@@ -10,7 +10,7 @@ category: nerd
 tags: programmazione, coding, tutorial
 author: GabrielJones
 paginate: true
-sticky: true
+sticky: false
 ---
 
 ## La Magia della Programmazione: Un Viaggio nelle Lingue del Codice

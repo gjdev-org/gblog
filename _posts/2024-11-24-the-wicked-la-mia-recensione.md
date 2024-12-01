@@ -10,6 +10,7 @@ category: cinema
 tags: film
 author: GabrielJones
 paginate: true
+sticky: true
 ---
 
 Negli ultimi anni, il genere del musical ha dimostrato di essere molto più che un semplice revival nostalgico. Con produzioni come *La La Land* o *The Greatest Showman*, il pubblico ha riscoperto il piacere di una narrazione che combina canto, danza e grandi emozioni. *The Wicked* si inserisce perfettamente in questa tendenza, proponendosi come una reinterpretazione del classico *Il Mago di Oz*, ma con un focus tutto nuovo: il punto di vista delle streghe.
