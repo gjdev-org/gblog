@@ -6,7 +6,7 @@ subtitle: Tutto quello che faccio a dicembre!
 description: Tutto quello che faccio a dicembre! 
 image: assets/img/domenica1dic.jpg
 category: nerd 
-tags: #domenica 
+tags: domenica 
 author: gabrieljones 
 paginate: true 
 sticky: false
