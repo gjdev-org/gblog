@@ -2,8 +2,8 @@
 date: 2024-11-31
 layout: post
 title: Ecco perché amo brave!
-subtitle:
-description: 
+subtitle: ciao
+description: ciao 
 image: https://imgs.search.brave.com/qyqfpL-_Unl31iTjljGdEkY3p9gEd8x1mdD26uEfrMM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pdHNm/b3NzLmNvbS9jb250/ZW50L2ltYWdlcy93/b3JkcHJlc3MvMjAy/MS8wNC9CcmF2ZS1C/cm93c2VyLXR3ZWFr/cy10aXBzLnBuZw
 optimized_image: https://imgs.search.brave.com/qyqfpL-_Unl31iTjljGdEkY3p9gEd8x1mdD26uEfrMM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pdHNm/b3NzLmNvbS9jb250/ZW50L2ltYWdlcy93/b3JkcHJlc3MvMjAy/MS8wNC9CcmF2ZS1C/cm93c2VyLXR3ZWFr/cy10aXBzLnBuZw
 category: nerd
